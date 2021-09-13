@@ -57,19 +57,5 @@ $ dotnet run
 
 <img src="imagesReadme/img1.png" style="border: 1px solid #000; box-shadow: 0 0 1em #000">
 
-
-
-## :busts_in_silhouette: Contribuição
-
-- [Cauã Rodrigues](https://github.com/CauaRodrigues)
-- [Gabriel Mariano](https://github.com/Gabriel-MarianoJ)
-- [Gabriel dos Santos](https://github.com/GabrielGSF)
-- [João Fernando](https://github.com/Joaocaetano1105)
-- [João Ozorio](https://github.com/odrelvic)
-
-
-
-### :link: [Link do Projeto]()
-
-
+##### :link: [Link do Projeto]()
 
